@@ -9,7 +9,7 @@ A **PyQt** application used as a **Signal Viewer** program provided with a user-
 - Generate reports containing statistical measures for analyzed signals.
 - Link viewers for synchronized playback and analysis.
 - Take snapshots of your signal views for documentation or sharing.
-- Speed up and down 
+- Speed up and down the signals as desired.
 ## Installation
 1. Clone the repository
 ```sh
