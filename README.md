@@ -2,14 +2,14 @@
 ## **Introduction** :-
 This PyQt-powered application serves as a **real-time vital sign monitoring system**. It features a polished user interface that offers an intuitive platform for visualizing and analyzing vital signals. This tool empowers users to effortlessly navigate through a diverse array of signals, extracting pertinent information from each, and even provides the flexibility to fine-tune them to precise specifications, delivering a tailored and insightful outcome.
 ## Features :-
-- Real-Time Playback: Seamlessly play and display signals in real-time for immediate insights.
-- Playback Controls: Enjoy comprehensive playback controls, including play, pause, and zoom functionalities, enhancing signal examination.
-- Customization Options: Personalize signal names and colors to optimize visualization and analysis.
-- Signal Management: Effortlessly move signals between viewers and selectively hide them for focused examination.
-- Statistical Reports: Generate comprehensive reports with statistical measures for in-depth signal analysis.
-- Viewer Synchronization: Link viewers for synchronized playback and simultaneous analysis, ensuring coherence in observations.
-- Snapshot Capture: Capture snapshots of signal views for documentation or easy sharing.
-- Dynamic Speed Control: Adjust signal playback speed to suit your specific requirements, facilitating precise examination.
+- **Real-Time Playback:** Seamlessly play and display signals in real-time for immediate insights.
+- **Playback Controls:** Enjoy comprehensive playback controls, including play, pause, and zoom functionalities, enhancing signal examination.
+- **Customization Options:** Personalize signal names and colors to optimize visualization and analysis.
+- **Signal Management:** Effortlessly move signals between viewers and selectively hide them for focused examination.
+- **Statistical Reports:** Generate comprehensive reports with statistical measures for in-depth signal analysis.
+- **Viewer Synchronization:** Link viewers for synchronized playback and simultaneous analysis, ensuring coherence in observations.
+- **Snapshot Capture:** Capture snapshots of signal views for documentation or easy sharing.
+- **Dynamic Speed Control:** Adjust signal playback speed to suit your specific requirements, facilitating precise examination.
 ## Installation
 1. Clone the repository
 ```sh
