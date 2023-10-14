@@ -64,7 +64,7 @@ A **PyQt** application used as a **Signal Viewer** program provided with a user-
 
 - Linking Viewers :-
 
-  Linking the two viewers together for synchronized playback and analysis of the signals, using the controls will control the two signals simultaneously.
+  Linking the two viewers together for synchronized playback and analysis of the signals, using the controls will enable you to handle the two signals simultaneously.
 
 ## Our Team
 
