@@ -1,9 +1,9 @@
 # SBME_DSP_SignalViewer
 ## **Introduction** :-
-A **PyQt** application used as a **Signal Viewer** program provided with a user-friendly interface to visualize ana analyze signals and to be able to navigate through various signals, find significant information about each one and even tweak them to your desired outcome.
+A **PyQt** application used as a **Signal Viewer** program provided with a user-friendly interface to visualize and analyze signals and to be able to navigate through various signals, find significant information about each one and even tweak them to your desired outcome.
 ## Features :-
 - Play and display signals in real-time.
-- Playback controls for play, pause, and zoom functionality.
+- Playback controls for play, pause, and zoom functionalities.
 - Customize signal name and color for better visualization.
 - Move signals between two viewers and hide one or more of them.
 - Generate reports containing statistical measures for analyzed signals.
