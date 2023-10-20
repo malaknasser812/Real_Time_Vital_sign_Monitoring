@@ -27,7 +27,7 @@ This PyQt-powered application serves as a **real-time vital sign monitoring syst
  ```
 3. Run the application
 ```sh
-   python main.py
+   python Main.py
 ```
 ## Libraries
 - PyQt5
@@ -68,10 +68,10 @@ This PyQt-powered application serves as a **real-time vital sign monitoring syst
 
 ## Our Team
 
-- Camellia Marwan
 - Hager Samir
-- Farah Ossama
 - Malak Nasser
+- Camellia Marwan
+- Farah Ossama
 
 
   
