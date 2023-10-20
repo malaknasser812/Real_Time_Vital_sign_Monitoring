@@ -22,7 +22,7 @@ from PyQt5.QtWidgets import QMessageBox
 from os import path
 from PyQt5.QtCore import QTimer
 from PyQt5.QtGui import QPen
-FORM_CLASS, _ = loadUiType(path.join(path.dirname(__file__), "test1.ui"))
+FORM_CLASS, _ = loadUiType(path.join(path.dirname(__file__), "Main.ui"))
 
 
 
