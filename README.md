@@ -72,6 +72,7 @@ This PyQt-powered application serves as a **real-time vital sign monitoring syst
 - Malak Nasser
 - Camellia Marwan
 - Farah Ossama
+- raghda
 
 
   
