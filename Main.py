@@ -652,6 +652,8 @@ class MainApp(QMainWindow, FORM_CLASS):
         # Calculate the mean and standard deviation of the y-data
         mean = np.mean(y1)
         std = np.std(y1)
+        mean = round(mean, 3)
+        std = round(std, 3) 
 
         # Store the calculated statistics in a list
         statData = [ymin, xmin, ymax, xmax, duration, mean, std]
